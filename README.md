@@ -1,2 +1,0 @@
-# voting
-Created with CodeSandbox

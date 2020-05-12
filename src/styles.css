@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#root {
+  max-width: 70%;
+  margin: auto;
+}
+.row {
+  border-bottom: 1px solid;
+}
+img {
+  width: 100px;
+  border-radius: 50%;
+}
+.container {
+  padding: 10px;
+  display: flex;
+}
+.details {
+  font-weight: bold;
+}
+a {
+  cursor: pointer;
+  text-decoration: underline;
+}
