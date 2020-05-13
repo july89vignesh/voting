@@ -17,10 +17,17 @@ img {
   padding: 10px;
   display: flex;
 }
-.details {
-  font-weight: bold;
-}
 a {
   cursor: pointer;
   text-decoration: underline;
+  padding: 10px;
+}
+.votes {
+  display: flex;
+}
+.vote-btn {
+  font-weight: 500;
+}
+.col-xs-12 {
+  width: 100%;
 }
